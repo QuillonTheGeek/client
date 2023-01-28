@@ -15,7 +15,7 @@ const Categories = () => {
     <div className="row">
          <img src="https://images.pexels.com/photos/3236651/pexels-photo-3236651.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
     <button>
-        <Link className='link' to='/products/1'>Women</Link>
+        <Link className='link' to='/products/2'>Women</Link>
     </button>
     </div>
 </div>
@@ -23,7 +23,7 @@ const Categories = () => {
     <div className="row">
         <img src="https://images.pexels.com/photos/157675/fashion-men-s-individuality-black-and-white-157675.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
     <button>
-        <Link className='link' to='/products/1'>New season</Link>
+        <Link className='link' to='/products/3'>New season</Link>
     </button>
     </div>
 </div>
@@ -33,7 +33,7 @@ const Categories = () => {
     <div className="row">
         <img src="https://images.pexels.com/photos/380782/pexels-photo-380782.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
     <button>
-        <Link className='link' to='/products/1'>Men</Link>
+        <Link className='link' to='/products/4'>Men</Link>
     </button>
     </div>
     </div>
@@ -41,7 +41,7 @@ const Categories = () => {
     <div className="row">
          <img src="https://images.pexels.com/photos/1460838/pexels-photo-1460838.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
     <button>
-        <Link className='link' to='/products/1'>Assesories</Link>
+        <Link className='link' to='/products/5'>Assesories</Link>
     </button>
     </div>
     </div>
@@ -49,7 +49,7 @@ const Categories = () => {
     <div className="row">
          <img src="https://images.pexels.com/photos/2562992/pexels-photo-2562992.png?auto=compress&cs=tinysrgb&w=400" alt="" />
     <button>
-        <Link className='link' to='/products/1'>Shoes</Link>
+        <Link className='link' to='/products/6'>Shoes</Link>
     </button>
     </div>
 </div>
